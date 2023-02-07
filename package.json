@@ -1,0 +1,23 @@
+{
+  "name": "learning-about-github-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huy1651995/learning-about-github-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huy1651995/learning-about-github-actions/issues"
+  },
+  "homepage": "https://github.com/huy1651995/learning-about-github-actions#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
